@@ -1,696 +1,463 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width='397.700mm' height='211.350mm' viewBox="0 0 397.700 211.350">
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width='399.113mm' height='180.000mm' viewBox="0 0 399.113 180.000">
 
 <title>Exported SVG</title>
 
 <style><![CDATA[
 polygon {
 shape-rendering:crispEdges;
-stroke-width:0.397700;
+stroke-width:0.399113;
 }
 .s0 {
 stroke:#000000;
-stroke-width:0.211059;
+stroke-width:0.200780;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s1 {
 stroke:#000000;
-stroke-width:0.211059;
+stroke-width:0.200780;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s2 {
 stroke:#19b219;
-stroke-width:0.211059;
+stroke-width:0.200780;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s3 {
 stroke:#7f4c00;
-stroke-width:0.211059;
+stroke-width:0.200780;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s4 {
 stroke:#00cc00;
-stroke-width:0.211059;
+stroke-width:0.200780;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s5 {
 stroke:#000000;
-stroke-width:0.140706;
+stroke-width:0.133854;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s6 {
 stroke:#ff19ff;
-stroke-width:0.140706;
+stroke-width:0.133854;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s7 {
 stroke:#ff0000;
-stroke-width:0.211059;
+stroke-width:0.200780;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s8 {
 stroke:#ffff00;
-stroke-width:0.211059;
+stroke-width:0.200780;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .s9 {
 stroke:#001919;
-stroke-width:0.140706;
+stroke-width:0.133854;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sa {
 stroke:#006666;
-stroke-width:0.140706;
+stroke-width:0.133854;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sb {
 stroke:#00ffff;
-stroke-width:0.422117;
+stroke-width:0.401561;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sc {
 stroke:#ff0000;
-stroke-width:1.125646;
+stroke-width:1.070829;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .sd {
 stroke:#191919;
-stroke-width:0.140706;
+stroke-width:0.133854;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 .se {
 stroke:#000000;
-stroke-width:0.140706;
+stroke-width:0.133854;
 stroke-linecap:round;
 stroke-linejoin:round;
-stroke-dasharray:2.111,2.111;
+stroke-dasharray:2.008,2.008;
 fill:none;
 }
 .sf {
 stroke:#000000;
-stroke-width:0.422117;
+stroke-width:0.401561;
 stroke-linecap:round;
 stroke-linejoin:round;
 fill:none;
 }
 ]]></style>
-<polygon points='116.350,5.000 161.350,5.000 161.350,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='161.350,5.000 116.350,5.000 161.350,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='161.350,5.000 116.350,5.000 116.350,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='116.350,5.000 161.350,5.000 116.350,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='146.350,200.000 131.350,200.000 131.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='146.350,200.000 131.350,200.000 146.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='131.350,200.000 131.350,206.350 131.350,200.000' stroke='#505050' fill='#505050'/>
-<polygon points='131.350,200.000 131.350,206.350 131.350,206.350' stroke='#505050' fill='#505050'/>
-<polygon points='146.350,206.350 146.350,200.000 146.350,200.000' stroke='#646464' fill='#646464'/>
-<polygon points='146.350,206.350 146.350,200.000 146.350,206.350' stroke='#646464' fill='#646464'/>
-<polygon points='131.350,206.350 116.350,206.350 116.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='131.350,206.350 116.350,206.350 131.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,206.350 146.350,206.350 161.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,206.350 146.350,206.350 146.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,136.301 116.350,123.910 116.350,125.157' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,172.700 116.350,167.924 161.350,173.147' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,172.700 116.350,167.390 116.350,167.924' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,190.733 161.350,192.655 116.350,190.452' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,190.733 161.350,193.050 161.350,192.655' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,196.816 161.350,200.000 116.350,195.683' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,196.816 146.350,200.000 161.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,5.000 116.350,91.913 161.350,42.609' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,5.000 116.350,5.000 116.350,91.913' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,198.219 146.350,200.000 116.350,196.816' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,198.219 131.350,200.000 146.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,191.391 161.350,193.487 116.350,191.044' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,191.391 161.350,193.974 161.350,193.487' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,190.198 161.350,191.973 116.350,189.966' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,190.198 161.350,192.298 161.350,191.973' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,190.452 161.350,192.298 116.350,190.198' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,190.452 161.350,192.655 161.350,192.298' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,122.847 116.350,113.041 161.350,127.201' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,122.847 116.350,107.840 116.350,113.041' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,137.344 116.350,134.780 161.350,145.401' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,137.344 116.350,125.157 116.350,134.780' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,102.500 161.350,42.609 116.350,91.913' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,102.500 161.350,102.500 161.350,42.609' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,206.350 131.350,200.000 116.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,192.720 161.350,195.137 116.350,192.220' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,192.720 161.350,195.840 161.350,195.137' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,189.375 161.350,191.000 116.350,189.200' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,189.375 161.350,191.250 161.350,191.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,182.000 116.350,189.200 161.350,191.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,182.000 116.350,178.400 116.350,189.200' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,145.401 116.350,145.650 161.350,154.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,145.401 116.350,134.780 116.350,145.650' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,178.400 161.350,181.800 116.350,178.260' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,178.400 161.350,182.000 161.350,181.800' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,127.201 116.350,123.910 161.350,136.301' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,127.201 116.350,113.041 116.350,123.910' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,191.780 161.350,193.974 116.350,191.391' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,191.780 161.350,194.520 161.350,193.974' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,155.246 116.350,156.520 161.350,163.600' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,155.246 116.350,146.540 116.350,156.520' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,163.600 116.350,167.390 161.350,172.700' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,163.600 116.350,156.520 116.350,167.390' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,189.966 161.350,191.675 116.350,189.754' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,189.966 161.350,191.973 161.350,191.675' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,192.220 161.350,194.520 116.350,191.780' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,192.220 161.350,195.137 161.350,194.520' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='146.350,206.350 161.350,200.000 146.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,189.754 161.350,191.402 116.350,189.559' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,189.754 161.350,191.675 161.350,191.402' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,193.963 161.350,196.648 116.350,193.295' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,193.963 161.350,197.585 161.350,196.648' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,173.147 116.350,178.260 161.350,181.800' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,173.147 116.350,167.924 116.350,178.260' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,191.044 161.350,193.050 116.350,190.733' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,191.044 161.350,193.487 161.350,193.050' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='131.350,206.350 131.350,200.000 116.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,154.500 116.350,146.540 161.350,155.246' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,154.500 116.350,145.650 116.350,146.540' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,191.250 116.350,189.559 161.350,191.402' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,191.250 116.350,189.375 116.350,189.559' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,121.134 116.350,107.840 161.350,122.847' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,121.134 116.350,105.794 116.350,107.840' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,195.683 161.350,198.687 116.350,194.748' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,195.683 161.350,200.000 161.350,198.687' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,206.350 161.350,200.000 146.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,193.295 161.350,195.840 116.350,192.720' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,193.295 161.350,196.648 161.350,195.840' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,105.794 161.350,102.500 116.350,102.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,105.794 161.350,121.134 161.350,102.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,200.000 131.350,200.000 116.350,198.219' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,194.748 161.350,197.585 116.350,193.963' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,194.748 161.350,198.687 161.350,197.585' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,136.301 116.350,125.157 161.350,137.344' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,206.350 116.350,200.000 116.350,200.000' stroke='#646464' fill='#646464'/>
-<polygon points='116.350,206.350 116.350,200.000 116.350,206.350' stroke='#646464' fill='#646464'/>
-<polygon points='86.350,206.350 100.338,206.350 100.338,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='100.338,206.350 86.350,206.350 100.338,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='100.338,206.350 86.350,206.350 86.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='100.338,5.000 86.350,5.000 86.350,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='86.350,5.000 100.338,5.000 86.350,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='86.350,5.000 100.338,5.000 100.338,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='100.338,5.000 100.338,102.500 100.338,5.000' stroke='#505050' fill='#505050'/>
-<polygon points='100.338,5.000 100.338,102.500 100.338,102.500' stroke='#505050' fill='#505050'/>
-<polygon points='116.350,200.000 106.688,200.000 106.688,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='106.688,200.000 116.350,200.000 106.688,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='106.688,200.000 116.350,200.000 116.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='106.688,102.500 106.688,5.000 106.688,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='106.688,102.500 106.688,5.000 106.688,102.500' stroke='#646464' fill='#646464'/>
-<polygon points='101.350,200.000 101.350,206.350 101.350,200.000' stroke='#505050' fill='#505050'/>
-<polygon points='101.350,200.000 101.350,206.350 101.350,206.350' stroke='#505050' fill='#505050'/>
-<polygon points='106.688,200.000 101.350,200.000 101.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='101.350,200.000 106.688,200.000 106.688,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='106.688,200.000 101.350,200.000 106.688,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='100.338,102.500 106.688,102.500 106.688,102.500' stroke='#646464' fill='#646464'/>
-<polygon points='100.338,102.500 106.688,102.500 100.338,102.500' stroke='#646464' fill='#646464'/>
-<polygon points='100.338,206.350 101.350,206.350 101.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='101.350,206.350 100.338,206.350 100.338,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='100.338,206.350 101.350,206.350 100.338,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='106.688,5.000 116.350,5.000 116.350,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='116.350,5.000 106.688,5.000 116.350,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='116.350,5.000 106.688,5.000 106.688,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='86.350,206.350 86.350,200.000 86.350,206.350' stroke='#646464' fill='#646464'/>
-<polygon points='86.350,206.350 86.350,200.000 86.350,200.000' stroke='#646464' fill='#646464'/>
-<polygon points='86.350,5.000 11.350,5.000 11.350,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,5.000 86.350,5.000 86.350,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='86.350,5.000 11.350,5.000 86.350,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='56.350,200.000 41.350,200.000 41.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='86.350,200.000 71.350,200.000 86.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='56.350,200.000 41.350,200.000 56.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='26.350,200.000 11.350,200.000 26.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='86.350,200.000 71.350,200.000 71.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='41.350,206.350 26.350,206.350 41.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='41.350,206.350 26.350,206.350 26.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='41.350,200.000 41.350,206.350 41.350,200.000' stroke='#505050' fill='#505050'/>
-<polygon points='41.350,200.000 41.350,206.350 41.350,206.350' stroke='#505050' fill='#505050'/>
-<polygon points='71.350,206.350 56.350,206.350 71.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='71.350,206.350 56.350,206.350 56.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='71.350,200.000 71.350,206.350 71.350,206.350' stroke='#505050' fill='#505050'/>
-<polygon points='71.350,200.000 71.350,206.350 71.350,200.000' stroke='#505050' fill='#505050'/>
-<polygon points='56.350,206.350 56.350,200.000 56.350,200.000' stroke='#646464' fill='#646464'/>
-<polygon points='56.350,206.350 56.350,200.000 56.350,206.350' stroke='#646464' fill='#646464'/>
-<polygon points='26.350,206.350 26.350,200.000 26.350,206.350' stroke='#646464' fill='#646464'/>
-<polygon points='26.350,206.350 26.350,200.000 26.350,200.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,95.000 11.350,80.000 11.350,80.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,95.000 11.350,80.000 11.350,95.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,125.000 11.350,110.000 11.350,110.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,155.000 11.350,140.000 11.350,140.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,125.000 11.350,110.000 11.350,125.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,185.000 11.350,170.000 11.350,170.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,185.000 11.350,170.000 11.350,185.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,155.000 11.350,140.000 11.350,155.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,35.000 11.350,20.000 11.350,20.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,35.000 11.350,20.000 11.350,35.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,65.000 11.350,50.000 11.350,65.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,65.000 11.350,50.000 11.350,50.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,20.000 5.000,20.000 5.000,20.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='11.350,20.000 5.000,20.000 11.350,20.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,35.000 11.350,35.000 5.000,35.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,35.000 11.350,35.000 11.350,35.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,5.000 11.350,5.000 11.350,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,5.000 11.350,5.000 5.000,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,50.000 5.000,50.000 11.350,50.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='11.350,50.000 5.000,50.000 5.000,50.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,65.000 11.350,65.000 11.350,65.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,65.000 11.350,65.000 5.000,65.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,80.000 5.000,80.000 11.350,80.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='11.350,80.000 5.000,80.000 5.000,80.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 11.350,185.000 11.350,185.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,185.000 11.350,185.000 5.000,185.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,110.000 5.000,110.000 11.350,110.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='11.350,110.000 5.000,110.000 5.000,110.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='11.350,170.000 5.000,170.000 5.000,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='11.350,170.000 5.000,170.000 11.350,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,155.000 11.350,155.000 5.000,155.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,155.000 11.350,155.000 11.350,155.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,125.000 11.350,125.000 5.000,125.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,125.000 11.350,125.000 11.350,125.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,140.000 5.000,140.000 11.350,140.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='11.350,140.000 5.000,140.000 5.000,140.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,95.000 11.350,95.000 11.350,95.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,95.000 11.350,95.000 5.000,95.000' stroke='#646464' fill='#646464'/>
-<polygon points='11.350,200.000 5.000,200.000 5.000,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,110.000 5.000,95.000 5.000,95.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,200.000 5.000,185.000 5.000,200.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,50.000 5.000,35.000 5.000,35.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,50.000 5.000,35.000 5.000,50.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,140.000 5.000,125.000 5.000,125.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,20.000 5.000,5.000 5.000,20.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,80.000 5.000,65.000 5.000,80.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,200.000 5.000,185.000 5.000,185.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,170.000 5.000,155.000 5.000,170.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,140.000 5.000,125.000 5.000,140.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,20.000 5.000,5.000 5.000,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,110.000 5.000,95.000 5.000,110.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,170.000 5.000,155.000 5.000,155.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,80.000 5.000,65.000 5.000,65.000' stroke='#646464' fill='#646464'/>
-<polygon points='5.000,65.000 11.350,80.000 11.350,65.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,167.390 5.000,155.000 116.350,167.924' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,167.390 11.350,155.000 5.000,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 116.350,190.733 116.350,190.452' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 116.350,196.816 116.350,195.683' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='26.350,200.000 41.350,200.000 5.000,185.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,5.000 106.688,102.500 116.350,91.913' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,5.000 106.688,5.000 106.688,102.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 116.350,198.219 116.350,196.816' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 116.350,191.391 116.350,191.044' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 116.350,190.198 116.350,189.966' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 116.350,190.452 116.350,190.198' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,107.840 11.350,80.000 116.350,113.041' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,107.840 100.338,102.500 11.350,80.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,170.000 11.350,170.000 5.000,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,125.157 11.350,110.000 116.350,134.780' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,125.157 5.000,95.000 11.350,110.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='106.688,102.500 116.350,102.500 116.350,91.913' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 116.350,192.720 116.350,192.220' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='11.350,185.000 116.350,189.375 116.350,189.200' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='86.350,206.350 101.350,200.000 86.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='41.350,206.350 41.350,200.000 26.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='11.350,50.000 11.350,65.000 100.338,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,140.000 11.350,140.000 5.000,125.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,35.000 11.350,50.000 11.350,35.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='56.350,200.000 71.350,200.000 5.000,185.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='71.350,206.350 71.350,200.000 56.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='41.350,200.000 56.350,200.000 5.000,185.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='101.350,200.000 116.350,200.000 5.000,185.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='71.350,200.000 86.350,200.000 5.000,185.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,178.400 11.350,185.000 116.350,189.200' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,178.400 11.350,170.000 11.350,185.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,134.780 11.350,125.000 116.350,145.650' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,134.780 11.350,110.000 11.350,125.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='11.350,170.000 116.350,178.400 116.350,178.260' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,20.000 11.350,20.000 5.000,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,5.000 11.350,20.000 11.350,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='11.350,200.000 26.350,200.000 5.000,185.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='11.350,5.000 11.350,20.000 100.338,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,113.041 11.350,95.000 116.350,123.910' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,113.041 11.350,80.000 11.350,95.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 116.350,191.780 116.350,191.391' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,146.540 11.350,140.000 116.350,156.520' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,146.540 5.000,125.000 11.350,140.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,50.000 11.350,50.000 5.000,35.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,156.520 11.350,155.000 116.350,167.390' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,156.520 11.350,140.000 11.350,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 116.350,189.966 116.350,189.754' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 116.350,192.220 116.350,191.780' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='26.350,206.350 41.350,200.000 26.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='11.350,20.000 11.350,35.000 100.338,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 116.350,189.754 116.350,189.559' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='86.350,200.000 101.350,200.000 5.000,185.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 116.350,193.963 116.350,193.295' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,167.924 11.350,170.000 116.350,178.260' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,167.924 5.000,155.000 11.350,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='11.350,65.000 11.350,80.000 100.338,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='11.350,35.000 11.350,50.000 100.338,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 116.350,191.044 116.350,190.733' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='56.350,206.350 71.350,200.000 56.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,145.650 5.000,125.000 116.350,146.540' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,145.650 11.350,125.000 5.000,125.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,189.375 5.000,185.000 116.350,189.559' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,189.375 11.350,185.000 5.000,185.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,110.000 11.350,110.000 5.000,95.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,80.000 11.350,80.000 5.000,65.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,200.000 11.350,200.000 5.000,185.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,105.794 100.338,102.500 116.350,107.840' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,105.794 106.688,102.500 100.338,102.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 116.350,195.683 116.350,194.748' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='100.338,5.000 11.350,80.000 100.338,102.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 116.350,193.295 116.350,192.720' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='106.688,102.500 116.350,105.794 116.350,102.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='101.350,206.350 101.350,200.000 86.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 116.350,200.000 116.350,198.219' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='5.000,185.000 116.350,194.748 116.350,193.963' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,123.910 5.000,95.000 116.350,125.157' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='116.350,123.910 11.350,95.000 5.000,95.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,200.000 161.350,206.350 161.350,200.000' stroke='#505050' fill='#505050'/>
-<polygon points='161.350,200.000 161.350,206.350 161.350,206.350' stroke='#505050' fill='#505050'/>
-<polygon points='161.350,5.000 195.675,5.000 195.675,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='195.675,5.000 161.350,5.000 161.350,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='161.350,5.000 195.675,5.000 161.350,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='195.675,145.752 161.350,136.301 161.350,137.344' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,176.751 161.350,173.147 195.675,177.131' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,176.751 161.350,172.700 161.350,173.147' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,193.050 195.675,194.336 161.350,192.655' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,193.050 195.675,194.817 195.675,194.336' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,5.000 161.350,5.000 161.350,42.609' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,193.974 195.675,195.350 161.350,193.487' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,193.974 195.675,195.944 195.675,195.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,192.298 195.675,193.503 161.350,191.973' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,192.298 195.675,193.900 195.675,193.503' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,192.655 195.675,193.900 161.350,192.298' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,192.655 195.675,194.336 195.675,193.900' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,134.294 161.350,127.201 195.675,138.002' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,134.294 161.350,122.847 161.350,127.201' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,146.640 161.350,145.401 195.675,153.501' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,146.640 161.350,137.344 161.350,145.401' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,102.500 195.675,5.000 161.350,42.609' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,102.500 195.675,102.500 195.675,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,195.840 195.675,197.363 161.350,195.137' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,195.840 195.675,198.220 195.675,197.363' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,191.250 195.675,192.373 161.350,191.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,191.250 195.675,192.680 195.675,192.373' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,184.746 161.350,191.000 195.675,192.373' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,184.746 161.350,182.000 161.350,191.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,153.501 161.350,154.500 195.675,161.251' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,153.501 161.350,145.401 161.350,154.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,182.000 195.675,184.500 161.350,181.800' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,182.000 195.675,184.746 195.675,184.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,138.002 161.350,136.301 195.675,145.752' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,138.002 161.350,127.201 161.350,136.301' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,194.520 195.675,195.944 161.350,193.974' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,194.520 195.675,196.610 195.675,195.944' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,161.886 161.350,163.600 195.675,169.001' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,161.886 161.350,155.246 161.350,163.600' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,169.001 161.350,172.700 195.675,176.751' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,169.001 161.350,163.600 161.350,172.700' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,191.973 195.675,193.140 161.350,191.675' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,191.973 195.675,193.503 195.675,193.140' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,195.137 195.675,196.610 161.350,194.520' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,195.137 195.675,197.363 195.675,196.610' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,191.675 195.675,192.807 161.350,191.402' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,191.675 195.675,193.140 195.675,192.807' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,197.585 195.675,199.205 161.350,196.648' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,197.585 195.675,200.000 195.675,199.205' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,197.585 191.350,200.000 195.675,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,177.131 161.350,181.800 195.675,184.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,177.131 161.350,173.147 161.350,181.800' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,193.487 195.675,194.817 161.350,193.050' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,193.487 195.675,195.350 195.675,194.817' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,161.251 161.350,155.246 195.675,161.886' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,161.251 161.350,154.500 161.350,155.246' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,192.680 161.350,191.402 195.675,192.807' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,192.680 161.350,191.250 161.350,191.402' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,132.835 161.350,122.847 195.675,134.294' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,132.835 161.350,121.134 161.350,122.847' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,200.000 176.350,200.000 161.350,198.687' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,196.648 195.675,198.220 161.350,195.840' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,196.648 195.675,199.205 195.675,198.220' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,121.134 195.675,102.500 161.350,102.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,121.134 195.675,132.835 195.675,102.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,198.687 191.350,200.000 161.350,197.585' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='161.350,198.687 176.350,200.000 191.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,145.752 161.350,137.344 195.675,146.640' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='191.350,200.000 195.675,200.000 195.675,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='176.350,200.000 161.350,200.000 176.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='176.350,200.000 161.350,200.000 161.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,200.000 191.350,200.000 195.675,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,200.000 191.350,200.000 191.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='191.350,206.350 191.350,200.000 176.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='176.350,206.350 191.350,200.000 176.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='191.350,206.350 176.350,206.350 191.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='191.350,206.350 176.350,206.350 176.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='191.350,200.000 191.350,206.350 191.350,200.000' stroke='#505050' fill='#505050'/>
-<polygon points='191.350,200.000 191.350,206.350 191.350,206.350' stroke='#505050' fill='#505050'/>
-<polygon points='176.350,206.350 176.350,200.000 176.350,206.350' stroke='#646464' fill='#646464'/>
-<polygon points='176.350,206.350 176.350,200.000 176.350,200.000' stroke='#646464' fill='#646464'/>
-<polygon points='195.675,5.000 195.675,102.500 195.675,5.000' stroke='#505050' fill='#505050'/>
-<polygon points='195.675,5.000 195.675,102.500 195.675,102.500' stroke='#505050' fill='#505050'/>
-<polygon points='392.700,5.000 392.700,20.000 392.700,20.000' stroke='#505050' fill='#505050'/>
-<polygon points='392.700,5.000 392.700,20.000 392.700,5.000' stroke='#505050' fill='#505050'/>
-<polygon points='386.350,5.000 392.700,5.000 392.700,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='386.350,5.000 392.700,5.000 386.350,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='297.363,5.000 386.350,5.000 297.363,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='297.363,5.000 386.350,5.000 386.350,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='297.363,5.000 297.363,20.000 297.363,20.000' stroke='#646464' fill='#646464'/>
-<polygon points='297.363,20.000 297.363,5.000 297.363,20.000' stroke='#646464' fill='#646464'/>
-<polygon points='297.363,20.000 297.363,5.000 297.363,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='202.025,5.000 291.013,5.000 291.013,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='202.025,5.000 291.013,5.000 202.025,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='291.013,20.000 291.013,5.000 291.013,5.000' stroke='#505050' fill='#505050'/>
-<polygon points='291.013,5.000 291.013,20.000 291.013,20.000' stroke='#505050' fill='#505050'/>
-<polygon points='291.013,20.000 291.013,5.000 291.013,20.000' stroke='#505050' fill='#505050'/>
-<polygon points='202.025,5.000 202.025,20.000 202.025,20.000' stroke='#646464' fill='#646464'/>
-<polygon points='202.025,20.000 202.025,5.000 202.025,20.000' stroke='#646464' fill='#646464'/>
-<polygon points='202.025,20.000 202.025,5.000 202.025,5.000' stroke='#646464' fill='#646464'/>
-<polygon points='392.700,20.000 386.350,20.000 386.350,20.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,20.000 386.350,20.000 392.700,20.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='297.363,20.000 297.363,102.500 297.363,102.500' stroke='#646464' fill='#646464'/>
-<polygon points='297.363,102.500 297.363,20.000 297.363,20.000' stroke='#646464' fill='#646464'/>
-<polygon points='297.363,20.000 297.363,102.500 297.363,20.000' stroke='#646464' fill='#646464'/>
-<polygon points='291.013,102.500 291.013,20.000 291.013,20.000' stroke='#505050' fill='#505050'/>
-<polygon points='291.013,20.000 291.013,102.500 291.013,20.000' stroke='#505050' fill='#505050'/>
-<polygon points='291.013,20.000 291.013,102.500 291.013,102.500' stroke='#505050' fill='#505050'/>
-<polygon points='291.013,102.500 297.363,102.500 297.363,102.500' stroke='#646464' fill='#646464'/>
-<polygon points='291.013,102.500 297.363,102.500 291.013,102.500' stroke='#646464' fill='#646464'/>
-<polygon points='202.025,20.000 202.025,102.500 202.025,102.500' stroke='#646464' fill='#646464'/>
-<polygon points='202.025,102.500 202.025,20.000 202.025,20.000' stroke='#646464' fill='#646464'/>
-<polygon points='202.025,20.000 202.025,102.500 202.025,20.000' stroke='#646464' fill='#646464'/>
-<polygon points='195.675,102.500 202.025,102.500 202.025,102.500' stroke='#646464' fill='#646464'/>
-<polygon points='195.675,102.500 202.025,102.500 195.675,102.500' stroke='#646464' fill='#646464'/>
-<polygon points='386.350,170.000 386.350,185.000 386.350,170.000' stroke='#505050' fill='#505050'/>
-<polygon points='386.350,170.000 386.350,185.000 386.350,185.000' stroke='#505050' fill='#505050'/>
-<polygon points='386.350,50.000 386.350,65.000 386.350,65.000' stroke='#505050' fill='#505050'/>
-<polygon points='386.350,20.000 386.350,35.000 386.350,20.000' stroke='#505050' fill='#505050'/>
-<polygon points='386.350,110.000 386.350,125.000 386.350,125.000' stroke='#505050' fill='#505050'/>
-<polygon points='386.350,50.000 386.350,65.000 386.350,50.000' stroke='#505050' fill='#505050'/>
-<polygon points='386.350,140.000 386.350,155.000 386.350,155.000' stroke='#505050' fill='#505050'/>
-<polygon points='386.350,20.000 386.350,35.000 386.350,35.000' stroke='#505050' fill='#505050'/>
-<polygon points='386.350,80.000 386.350,95.000 386.350,95.000' stroke='#505050' fill='#505050'/>
-<polygon points='386.350,140.000 386.350,155.000 386.350,140.000' stroke='#505050' fill='#505050'/>
-<polygon points='386.350,80.000 386.350,95.000 386.350,80.000' stroke='#505050' fill='#505050'/>
-<polygon points='386.350,110.000 386.350,125.000 386.350,110.000' stroke='#505050' fill='#505050'/>
-<polygon points='392.700,140.000 386.350,140.000 386.350,140.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,140.000 386.350,140.000 392.700,140.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,185.000 392.700,185.000 392.700,185.000' stroke='#646464' fill='#646464'/>
-<polygon points='386.350,185.000 392.700,185.000 386.350,185.000' stroke='#646464' fill='#646464'/>
-<polygon points='386.350,155.000 392.700,155.000 386.350,155.000' stroke='#646464' fill='#646464'/>
-<polygon points='386.350,155.000 392.700,155.000 392.700,155.000' stroke='#646464' fill='#646464'/>
-<polygon points='392.700,170.000 386.350,170.000 392.700,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,170.000 386.350,170.000 386.350,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,125.000 392.700,125.000 386.350,125.000' stroke='#646464' fill='#646464'/>
-<polygon points='386.350,125.000 392.700,125.000 392.700,125.000' stroke='#646464' fill='#646464'/>
-<polygon points='386.350,95.000 392.700,95.000 386.350,95.000' stroke='#646464' fill='#646464'/>
-<polygon points='386.350,95.000 392.700,95.000 392.700,95.000' stroke='#646464' fill='#646464'/>
-<polygon points='392.700,50.000 386.350,50.000 386.350,50.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,50.000 386.350,50.000 392.700,50.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,65.000 392.700,65.000 386.350,65.000' stroke='#646464' fill='#646464'/>
-<polygon points='386.350,65.000 392.700,65.000 392.700,65.000' stroke='#646464' fill='#646464'/>
-<polygon points='386.350,35.000 392.700,35.000 386.350,35.000' stroke='#646464' fill='#646464'/>
-<polygon points='386.350,35.000 392.700,35.000 392.700,35.000' stroke='#646464' fill='#646464'/>
-<polygon points='392.700,80.000 386.350,80.000 392.700,80.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,80.000 386.350,80.000 386.350,80.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,110.000 386.350,110.000 392.700,110.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,110.000 386.350,110.000 386.350,110.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,35.000 392.700,50.000 392.700,50.000' stroke='#505050' fill='#505050'/>
-<polygon points='392.700,95.000 392.700,110.000 392.700,110.000' stroke='#505050' fill='#505050'/>
-<polygon points='392.700,65.000 392.700,80.000 392.700,80.000' stroke='#505050' fill='#505050'/>
-<polygon points='392.700,185.000 392.700,200.000 392.700,185.000' stroke='#505050' fill='#505050'/>
-<polygon points='392.700,35.000 392.700,50.000 392.700,35.000' stroke='#505050' fill='#505050'/>
-<polygon points='392.700,185.000 392.700,200.000 392.700,200.000' stroke='#505050' fill='#505050'/>
-<polygon points='392.700,155.000 392.700,170.000 392.700,155.000' stroke='#505050' fill='#505050'/>
-<polygon points='392.700,95.000 392.700,110.000 392.700,95.000' stroke='#505050' fill='#505050'/>
-<polygon points='392.700,155.000 392.700,170.000 392.700,170.000' stroke='#505050' fill='#505050'/>
-<polygon points='392.700,125.000 392.700,140.000 392.700,125.000' stroke='#505050' fill='#505050'/>
-<polygon points='392.700,125.000 392.700,140.000 392.700,140.000' stroke='#505050' fill='#505050'/>
-<polygon points='392.700,65.000 392.700,80.000 392.700,65.000' stroke='#505050' fill='#505050'/>
-<polygon points='195.675,200.000 206.350,200.000 206.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,200.000 371.350,200.000 371.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='326.350,200.000 311.350,200.000 326.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='266.350,200.000 251.350,200.000 251.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='236.350,200.000 221.350,200.000 221.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='326.350,200.000 311.350,200.000 311.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='356.350,200.000 341.350,200.000 356.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,200.000 371.350,200.000 386.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='296.350,200.000 281.350,200.000 296.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='356.350,200.000 341.350,200.000 341.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='236.350,200.000 221.350,200.000 236.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='206.350,200.000 195.675,200.000 195.675,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,200.000 386.350,200.000 392.700,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='266.350,200.000 251.350,200.000 266.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='296.350,200.000 281.350,200.000 281.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,200.000 206.350,200.000 195.675,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='221.350,206.350 206.350,206.350 221.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='221.350,206.350 206.350,206.350 206.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='206.350,206.350 206.350,200.000 206.350,200.000' stroke='#646464' fill='#646464'/>
-<polygon points='206.350,206.350 206.350,200.000 206.350,206.350' stroke='#646464' fill='#646464'/>
-<polygon points='221.350,200.000 221.350,206.350 221.350,206.350' stroke='#505050' fill='#505050'/>
-<polygon points='221.350,200.000 221.350,206.350 221.350,200.000' stroke='#505050' fill='#505050'/>
-<polygon points='236.350,206.350 236.350,200.000 236.350,200.000' stroke='#646464' fill='#646464'/>
-<polygon points='236.350,206.350 236.350,200.000 236.350,206.350' stroke='#646464' fill='#646464'/>
-<polygon points='251.350,206.350 236.350,206.350 236.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='251.350,206.350 236.350,206.350 251.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='251.350,200.000 251.350,206.350 251.350,200.000' stroke='#505050' fill='#505050'/>
-<polygon points='251.350,200.000 251.350,206.350 251.350,206.350' stroke='#505050' fill='#505050'/>
-<polygon points='326.350,206.350 326.350,200.000 326.350,200.000' stroke='#646464' fill='#646464'/>
-<polygon points='326.350,206.350 326.350,200.000 326.350,206.350' stroke='#646464' fill='#646464'/>
-<polygon points='311.350,200.000 311.350,206.350 311.350,200.000' stroke='#505050' fill='#505050'/>
-<polygon points='311.350,200.000 311.350,206.350 311.350,206.350' stroke='#505050' fill='#505050'/>
-<polygon points='296.350,206.350 296.350,200.000 296.350,200.000' stroke='#646464' fill='#646464'/>
-<polygon points='296.350,206.350 296.350,200.000 296.350,206.350' stroke='#646464' fill='#646464'/>
-<polygon points='281.350,200.000 281.350,206.350 281.350,206.350' stroke='#505050' fill='#505050'/>
-<polygon points='281.350,200.000 281.350,206.350 281.350,200.000' stroke='#505050' fill='#505050'/>
-<polygon points='266.350,206.350 266.350,200.000 266.350,206.350' stroke='#646464' fill='#646464'/>
-<polygon points='266.350,206.350 266.350,200.000 266.350,200.000' stroke='#646464' fill='#646464'/>
-<polygon points='341.350,200.000 341.350,206.350 341.350,206.350' stroke='#505050' fill='#505050'/>
-<polygon points='341.350,200.000 341.350,206.350 341.350,200.000' stroke='#505050' fill='#505050'/>
-<polygon points='371.350,200.000 371.350,206.350 371.350,206.350' stroke='#505050' fill='#505050'/>
-<polygon points='371.350,200.000 371.350,206.350 371.350,200.000' stroke='#505050' fill='#505050'/>
-<polygon points='356.350,206.350 356.350,200.000 356.350,200.000' stroke='#646464' fill='#646464'/>
-<polygon points='356.350,206.350 356.350,200.000 356.350,206.350' stroke='#646464' fill='#646464'/>
-<polygon points='341.350,206.350 326.350,206.350 341.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='281.350,206.350 266.350,206.350 266.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='371.350,206.350 356.350,206.350 371.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='371.350,206.350 356.350,206.350 356.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='281.350,206.350 266.350,206.350 281.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='311.350,206.350 296.350,206.350 311.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='341.350,206.350 326.350,206.350 326.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='311.350,206.350 296.350,206.350 296.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='206.350,206.350 221.350,200.000 206.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,200.000 195.675,176.751 195.675,177.131' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,185.000 392.700,200.000 392.700,185.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='371.350,206.350 371.350,200.000 356.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,140.000 297.363,5.000 386.350,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,194.817 311.350,200.000 195.675,194.336' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,194.817 296.350,200.000 311.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='326.350,206.350 341.350,200.000 326.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,110.000 297.363,5.000 386.350,110.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,195.944 281.350,200.000 195.675,195.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,195.944 266.350,200.000 281.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='341.350,206.350 341.350,200.000 326.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='297.363,102.500 392.700,200.000 297.363,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='221.350,206.350 221.350,200.000 206.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,193.900 341.350,200.000 195.675,193.503' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,193.900 326.350,200.000 341.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,194.336 326.350,200.000 195.675,193.900' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,194.336 311.350,200.000 326.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='251.350,206.350 251.350,200.000 236.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,200.000 195.675,134.294 195.675,138.002' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,65.000 297.363,5.000 392.700,80.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,170.000 297.363,5.000 386.350,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,200.000 195.675,146.640 195.675,153.501' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,198.220 236.350,200.000 195.675,197.363' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,198.220 221.350,200.000 236.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,192.680 386.350,200.000 195.675,192.373' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,192.680 371.350,200.000 386.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,35.000 297.363,5.000 392.700,50.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,102.500 392.700,200.000 202.025,102.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,95.000 297.363,5.000 392.700,110.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,35.000 386.350,35.000 392.700,50.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,50.000 297.363,5.000 386.350,50.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,80.000 297.363,5.000 386.350,80.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='281.350,206.350 281.350,200.000 266.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,20.000 297.363,5.000 386.350,20.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='297.363,5.000 392.700,200.000 386.350,185.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,200.000 195.675,184.746 195.675,192.373' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,200.000 195.675,153.501 195.675,161.251' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,184.746 392.700,200.000 195.675,184.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,184.746 386.350,200.000 392.700,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,95.000 386.350,95.000 392.700,110.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,50.000 297.363,5.000 386.350,65.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,5.000 386.350,5.000 392.700,20.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,200.000 195.675,138.002 195.675,145.752' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,140.000 297.363,5.000 386.350,140.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,196.610 266.350,200.000 195.675,195.944' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,196.610 251.350,200.000 266.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,155.000 297.363,5.000 392.700,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,200.000 195.675,161.886 195.675,169.001' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,200.000 195.675,169.001 195.675,176.751' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,193.503 356.350,200.000 195.675,193.140' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,193.503 341.350,200.000 356.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,125.000 297.363,5.000 392.700,140.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,197.363 251.350,200.000 195.675,196.610' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,197.363 236.350,200.000 251.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='266.350,206.350 281.350,200.000 266.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,155.000 386.350,155.000 392.700,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='311.350,206.350 311.350,200.000 296.350,206.350' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,65.000 386.350,65.000 392.700,80.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,125.000 386.350,125.000 392.700,140.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,193.140 371.350,200.000 195.675,192.807' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,193.140 356.350,200.000 371.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,200.000 206.350,200.000 195.675,199.205' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,200.000 195.675,177.131 195.675,184.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='202.025,5.000 202.025,102.500 291.013,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,195.350 296.350,200.000 195.675,194.817' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,195.350 281.350,200.000 296.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='202.025,102.500 392.700,200.000 291.013,102.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='296.350,206.350 311.350,200.000 296.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='236.350,206.350 251.350,200.000 236.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='291.013,102.500 392.700,200.000 297.363,102.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,200.000 195.675,161.251 195.675,161.886' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='371.350,200.000 195.675,192.680 195.675,192.807' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,80.000 297.363,5.000 386.350,95.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,110.000 297.363,5.000 386.350,125.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='291.013,5.000 202.025,102.500 291.013,102.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,200.000 195.675,132.835 195.675,134.294' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,199.205 221.350,200.000 195.675,198.220' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,199.205 206.350,200.000 221.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,20.000 297.363,5.000 386.350,35.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='195.675,132.835 392.700,200.000 195.675,102.500' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='356.350,206.350 371.350,206.350 356.350,200.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,170.000 297.363,5.000 386.350,185.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='392.700,200.000 195.675,145.752 195.675,146.640' stroke='#1e1e1e' fill='#1e1e1e'/>
-<polygon points='386.350,5.000 297.363,5.000 392.700,20.000' stroke='#1e1e1e' fill='#1e1e1e'/>
-<path d='M341.350 200.000 L356.350,200.000 L356.350,206.350 L371.350,206.350 L371.350,200.000 L386.350,200.000 L392.700,200.000 L392.700,185.000 L386.350,185.000 L386.350,170.000 L392.700,170.000 L392.700,155.000 L386.350,155.000 L386.350,140.000 L392.700,140.000 L392.700,125.000 L386.350,125.000 L386.350,110.000 L392.700,110.000 L392.700,95.000 L386.350,95.000 L386.350,80.000 L392.700,80.000 L392.700,65.000 L386.350,65.000 L386.350,50.000 L392.700,50.000 L392.700,35.000 L386.350,35.000 L386.350,20.000 L392.700,20.000 L392.700,5.000 L386.350,5.000 L297.363,5.000 L297.363,102.500 L291.013,102.500 L291.013,5.000 L202.025,5.000 L202.025,102.500 L195.675,102.500 L195.675,5.000 L106.688,5.000 L106.688,102.500 L100.338,102.500 L100.338,5.000 L11.350,5.000 L5.000,5.000 L5.000,20.000 L11.350,20.000 L11.350,35.000 L5.000,35.000 L5.000,50.000 L11.350,50.000 L11.350,65.000 L5.000,65.000 L5.000,80.000 L11.350,80.000 L11.350,95.000 L5.000,95.000 L5.000,110.000 L11.350,110.000 L11.350,125.000 L5.000,125.000 L5.000,140.000 L11.350,140.000 L11.350,155.000 L5.000,155.000 L5.000,170.000 L11.350,170.000 L11.350,185.000 L5.000,185.000 L5.000,200.000 L11.350,200.000 L26.350,200.000 L26.350,206.350 L41.350,206.350 L41.350,200.000 L56.350,200.000 L56.350,206.350 L71.350,206.350 L71.350,200.000 L86.350,200.000 L86.350,206.350 L101.350,206.350 L101.350,200.000 L116.350,200.000 L116.350,206.350 L131.350,206.350 L131.350,200.000 L146.350,200.000 L146.350,206.350 L161.350,206.350 L161.350,200.000 L176.350,200.000 L176.350,206.350 L191.350,206.350 L191.350,200.000 L206.350,200.000 L206.350,206.350 L221.350,206.350 L221.350,200.000 L236.350,200.000 L236.350,206.350 L251.350,206.350 L251.350,200.000 L266.350,200.000 L266.350,206.350 L281.350,206.350 L281.350,200.000 L296.350,200.000 L296.350,206.350 L311.350,206.350 L311.350,200.000 L326.350,200.000 L326.350,206.350 L341.350,206.350 L341.350,200.000 ' class='s1' />
-<path d='M100.338 5.000 L106.688,5.000 ' class='s3' />
-<path d='M195.675 5.000 L202.025,5.000 ' class='s3' />
-<path d='M291.013 5.000 L297.363,5.000 ' class='s3' />
+<polygon points='329.113,170.000 314.113,170.000 314.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='329.113,170.000 314.113,170.000 329.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='314.113,170.000 314.113,175.000 314.113,170.000' stroke='#505050' fill='#505050'/>
+<polygon points='314.113,170.000 314.113,175.000 314.113,175.000' stroke='#505050' fill='#505050'/>
+<polygon points='329.113,175.000 329.113,170.000 329.113,170.000' stroke='#646464' fill='#646464'/>
+<polygon points='329.113,175.000 329.113,170.000 329.113,175.000' stroke='#646464' fill='#646464'/>
+<polygon points='344.113,170.000 344.113,175.000 344.113,170.000' stroke='#505050' fill='#505050'/>
+<polygon points='344.113,170.000 344.113,175.000 344.113,175.000' stroke='#505050' fill='#505050'/>
+<polygon points='359.113,170.000 344.113,170.000 359.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='359.113,170.000 344.113,170.000 344.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='359.113,175.000 359.113,170.000 359.113,175.000' stroke='#646464' fill='#646464'/>
+<polygon points='359.113,175.000 359.113,170.000 359.113,170.000' stroke='#646464' fill='#646464'/>
+<polygon points='374.113,170.000 374.113,175.000 374.113,170.000' stroke='#505050' fill='#505050'/>
+<polygon points='374.113,170.000 374.113,175.000 374.113,175.000' stroke='#505050' fill='#505050'/>
+<polygon points='389.113,170.000 374.113,170.000 374.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,170.000 389.113,170.000 389.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='389.113,170.000 374.113,170.000 389.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,170.000 389.113,170.000 394.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,155.000 394.113,170.000 394.113,170.000' stroke='#505050' fill='#505050'/>
+<polygon points='394.113,155.000 394.113,170.000 394.113,155.000' stroke='#505050' fill='#505050'/>
+<polygon points='299.113,175.000 299.113,170.000 299.113,170.000' stroke='#646464' fill='#646464'/>
+<polygon points='299.113,175.000 299.113,170.000 299.113,175.000' stroke='#646464' fill='#646464'/>
+<polygon points='269.113,170.000 254.113,170.000 254.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='89.113,170.000 74.113,170.000 74.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='299.113,170.000 284.113,170.000 284.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='119.113,170.000 104.113,170.000 104.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='209.113,170.000 194.113,170.000 194.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='269.113,170.000 254.113,170.000 269.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='239.113,170.000 224.113,170.000 239.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='89.113,170.000 74.113,170.000 89.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='239.113,170.000 224.113,170.000 224.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='179.113,170.000 164.113,170.000 164.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='179.113,170.000 164.113,170.000 179.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='149.113,170.000 134.113,170.000 149.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='209.113,170.000 194.113,170.000 209.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='299.113,170.000 284.113,170.000 299.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='119.113,170.000 104.113,170.000 119.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='149.113,170.000 134.113,170.000 134.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='149.113,175.000 149.113,170.000 149.113,175.000' stroke='#646464' fill='#646464'/>
+<polygon points='149.113,175.000 149.113,170.000 149.113,170.000' stroke='#646464' fill='#646464'/>
+<polygon points='134.113,170.000 134.113,175.000 134.113,170.000' stroke='#505050' fill='#505050'/>
+<polygon points='134.113,170.000 134.113,175.000 134.113,175.000' stroke='#505050' fill='#505050'/>
+<polygon points='119.113,175.000 119.113,170.000 119.113,170.000' stroke='#646464' fill='#646464'/>
+<polygon points='119.113,175.000 119.113,170.000 119.113,175.000' stroke='#646464' fill='#646464'/>
+<polygon points='74.113,170.000 74.113,175.000 74.113,170.000' stroke='#505050' fill='#505050'/>
+<polygon points='74.113,170.000 74.113,175.000 74.113,175.000' stroke='#505050' fill='#505050'/>
+<polygon points='104.113,170.000 104.113,175.000 104.113,175.000' stroke='#505050' fill='#505050'/>
+<polygon points='104.113,170.000 104.113,175.000 104.113,170.000' stroke='#505050' fill='#505050'/>
+<polygon points='89.113,175.000 89.113,170.000 89.113,170.000' stroke='#646464' fill='#646464'/>
+<polygon points='89.113,175.000 89.113,170.000 89.113,175.000' stroke='#646464' fill='#646464'/>
+<polygon points='164.113,170.000 164.113,175.000 164.113,170.000' stroke='#505050' fill='#505050'/>
+<polygon points='164.113,170.000 164.113,175.000 164.113,175.000' stroke='#505050' fill='#505050'/>
+<polygon points='284.113,170.000 284.113,175.000 284.113,175.000' stroke='#505050' fill='#505050'/>
+<polygon points='284.113,170.000 284.113,175.000 284.113,170.000' stroke='#505050' fill='#505050'/>
+<polygon points='269.113,175.000 269.113,170.000 269.113,175.000' stroke='#646464' fill='#646464'/>
+<polygon points='269.113,175.000 269.113,170.000 269.113,170.000' stroke='#646464' fill='#646464'/>
+<polygon points='179.113,175.000 179.113,170.000 179.113,170.000' stroke='#646464' fill='#646464'/>
+<polygon points='179.113,175.000 179.113,170.000 179.113,175.000' stroke='#646464' fill='#646464'/>
+<polygon points='194.113,170.000 194.113,175.000 194.113,170.000' stroke='#505050' fill='#505050'/>
+<polygon points='194.113,170.000 194.113,175.000 194.113,175.000' stroke='#505050' fill='#505050'/>
+<polygon points='239.113,175.000 239.113,170.000 239.113,170.000' stroke='#646464' fill='#646464'/>
+<polygon points='239.113,175.000 239.113,170.000 239.113,175.000' stroke='#646464' fill='#646464'/>
+<polygon points='209.113,175.000 209.113,170.000 209.113,175.000' stroke='#646464' fill='#646464'/>
+<polygon points='209.113,175.000 209.113,170.000 209.113,170.000' stroke='#646464' fill='#646464'/>
+<polygon points='224.113,170.000 224.113,175.000 224.113,175.000' stroke='#505050' fill='#505050'/>
+<polygon points='224.113,170.000 224.113,175.000 224.113,170.000' stroke='#505050' fill='#505050'/>
+<polygon points='254.113,170.000 254.113,175.000 254.113,170.000' stroke='#505050' fill='#505050'/>
+<polygon points='254.113,170.000 254.113,175.000 254.113,175.000' stroke='#505050' fill='#505050'/>
+<polygon points='389.113,155.000 394.113,155.000 394.113,155.000' stroke='#646464' fill='#646464'/>
+<polygon points='389.113,155.000 394.113,155.000 389.113,155.000' stroke='#646464' fill='#646464'/>
+<polygon points='389.113,95.000 394.113,95.000 394.113,95.000' stroke='#646464' fill='#646464'/>
+<polygon points='389.113,95.000 394.113,95.000 389.113,95.000' stroke='#646464' fill='#646464'/>
+<polygon points='389.113,87.500 389.113,95.000 389.113,95.000' stroke='#505050' fill='#505050'/>
+<polygon points='389.113,95.000 389.113,87.500 389.113,87.500' stroke='#505050' fill='#505050'/>
+<polygon points='389.113,87.500 389.113,95.000 389.113,87.500' stroke='#505050' fill='#505050'/>
+<polygon points='394.113,95.000 394.113,110.000 394.113,95.000' stroke='#505050' fill='#505050'/>
+<polygon points='394.113,95.000 394.113,110.000 394.113,110.000' stroke='#505050' fill='#505050'/>
+<polygon points='394.113,110.000 389.113,110.000 389.113,110.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,110.000 389.113,110.000 394.113,110.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='389.113,140.000 389.113,155.000 389.113,155.000' stroke='#505050' fill='#505050'/>
+<polygon points='389.113,140.000 389.113,155.000 389.113,140.000' stroke='#505050' fill='#505050'/>
+<polygon points='394.113,140.000 389.113,140.000 394.113,140.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,140.000 389.113,140.000 389.113,140.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,125.000 394.113,140.000 394.113,125.000' stroke='#505050' fill='#505050'/>
+<polygon points='394.113,125.000 394.113,140.000 394.113,140.000' stroke='#505050' fill='#505050'/>
+<polygon points='389.113,125.000 394.113,125.000 394.113,125.000' stroke='#646464' fill='#646464'/>
+<polygon points='389.113,125.000 394.113,125.000 389.113,125.000' stroke='#646464' fill='#646464'/>
+<polygon points='389.113,110.000 389.113,125.000 389.113,125.000' stroke='#505050' fill='#505050'/>
+<polygon points='389.113,110.000 389.113,125.000 389.113,110.000' stroke='#505050' fill='#505050'/>
+<polygon points='284.113,175.000 269.113,175.000 269.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='374.113,175.000 359.113,175.000 374.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='104.113,175.000 89.113,175.000 89.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='254.113,175.000 239.113,175.000 239.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='104.113,175.000 89.113,175.000 104.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='344.113,175.000 329.113,175.000 344.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='344.113,175.000 329.113,175.000 329.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='164.113,175.000 149.113,175.000 149.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='134.113,175.000 119.113,175.000 134.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='284.113,175.000 269.113,175.000 284.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='74.113,175.000 59.113,175.000 74.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='254.113,175.000 239.113,175.000 254.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='224.113,175.000 209.113,175.000 224.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='194.113,175.000 179.113,175.000 194.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='314.113,175.000 299.113,175.000 299.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='374.113,175.000 359.113,175.000 359.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='194.113,175.000 179.113,175.000 179.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='314.113,175.000 299.113,175.000 314.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='74.113,175.000 59.113,175.000 59.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='224.113,175.000 209.113,175.000 209.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='164.113,175.000 149.113,175.000 164.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='134.113,175.000 119.113,175.000 119.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='103.738,87.500 109.238,87.500 103.738,87.500' stroke='#646464' fill='#646464'/>
+<polygon points='293.988,87.500 299.488,87.500 299.488,87.500' stroke='#646464' fill='#646464'/>
+<polygon points='293.988,87.500 299.488,87.500 293.988,87.500' stroke='#646464' fill='#646464'/>
+<polygon points='198.863,87.500 204.363,87.500 198.863,87.500' stroke='#646464' fill='#646464'/>
+<polygon points='198.863,87.500 204.363,87.500 204.363,87.500' stroke='#646464' fill='#646464'/>
+<polygon points='103.738,87.500 109.238,87.500 109.238,87.500' stroke='#646464' fill='#646464'/>
+<polygon points='109.238,87.500 109.238,5.000 109.238,87.500' stroke='#646464' fill='#646464'/>
+<polygon points='109.238,87.500 109.238,5.000 109.238,5.000' stroke='#646464' fill='#646464'/>
+<polygon points='103.738,5.000 103.738,87.500 103.738,5.000' stroke='#505050' fill='#505050'/>
+<polygon points='103.738,5.000 103.738,87.500 103.738,87.500' stroke='#505050' fill='#505050'/>
+<polygon points='198.863,5.000 198.863,87.500 198.863,87.500' stroke='#505050' fill='#505050'/>
+<polygon points='198.863,5.000 198.863,87.500 198.863,5.000' stroke='#505050' fill='#505050'/>
+<polygon points='299.488,87.500 299.488,5.000 299.488,87.500' stroke='#646464' fill='#646464'/>
+<polygon points='299.488,87.500 299.488,5.000 299.488,5.000' stroke='#646464' fill='#646464'/>
+<polygon points='204.363,87.500 204.363,5.000 204.363,5.000' stroke='#646464' fill='#646464'/>
+<polygon points='204.363,87.500 204.363,5.000 204.363,87.500' stroke='#646464' fill='#646464'/>
+<polygon points='293.988,5.000 293.988,87.500 293.988,87.500' stroke='#505050' fill='#505050'/>
+<polygon points='293.988,5.000 293.988,87.500 293.988,5.000' stroke='#505050' fill='#505050'/>
+<polygon points='389.113,50.000 389.113,65.000 389.113,50.000' stroke='#505050' fill='#505050'/>
+<polygon points='389.113,20.000 389.113,35.000 389.113,20.000' stroke='#505050' fill='#505050'/>
+<polygon points='389.113,87.500 389.113,80.000 389.113,87.500' stroke='#505050' fill='#505050'/>
+<polygon points='389.113,87.500 389.113,80.000 389.113,80.000' stroke='#505050' fill='#505050'/>
+<polygon points='389.113,50.000 389.113,65.000 389.113,65.000' stroke='#505050' fill='#505050'/>
+<polygon points='389.113,20.000 389.113,35.000 389.113,35.000' stroke='#505050' fill='#505050'/>
+<polygon points='389.113,80.000 389.113,87.500 389.113,87.500' stroke='#505050' fill='#505050'/>
+<polygon points='394.113,35.000 394.113,50.000 394.113,35.000' stroke='#505050' fill='#505050'/>
+<polygon points='394.113,35.000 394.113,50.000 394.113,50.000' stroke='#505050' fill='#505050'/>
+<polygon points='389.113,35.000 394.113,35.000 394.113,35.000' stroke='#646464' fill='#646464'/>
+<polygon points='389.113,35.000 394.113,35.000 389.113,35.000' stroke='#646464' fill='#646464'/>
+<polygon points='394.113,20.000 389.113,20.000 394.113,20.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,20.000 389.113,20.000 389.113,20.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,5.000 394.113,20.000 394.113,5.000' stroke='#505050' fill='#505050'/>
+<polygon points='394.113,5.000 394.113,20.000 394.113,20.000' stroke='#505050' fill='#505050'/>
+<polygon points='394.113,50.000 389.113,50.000 394.113,50.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,50.000 389.113,50.000 389.113,50.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,65.000 394.113,80.000 394.113,65.000' stroke='#505050' fill='#505050'/>
+<polygon points='394.113,65.000 394.113,80.000 394.113,80.000' stroke='#505050' fill='#505050'/>
+<polygon points='394.113,80.000 389.113,80.000 394.113,80.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,80.000 389.113,80.000 389.113,80.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='389.113,65.000 394.113,65.000 389.113,65.000' stroke='#646464' fill='#646464'/>
+<polygon points='389.113,65.000 394.113,65.000 394.113,65.000' stroke='#646464' fill='#646464'/>
+<polygon points='299.488,5.000 389.113,5.000 299.488,5.000' stroke='#646464' fill='#646464'/>
+<polygon points='59.113,5.000 103.738,5.000 59.113,5.000' stroke='#646464' fill='#646464'/>
+<polygon points='59.113,5.000 103.738,5.000 103.738,5.000' stroke='#646464' fill='#646464'/>
+<polygon points='204.363,5.000 293.988,5.000 293.988,5.000' stroke='#646464' fill='#646464'/>
+<polygon points='389.113,5.000 394.113,5.000 389.113,5.000' stroke='#646464' fill='#646464'/>
+<polygon points='204.363,5.000 293.988,5.000 204.363,5.000' stroke='#646464' fill='#646464'/>
+<polygon points='109.238,5.000 198.863,5.000 109.238,5.000' stroke='#646464' fill='#646464'/>
+<polygon points='299.488,5.000 389.113,5.000 389.113,5.000' stroke='#646464' fill='#646464'/>
+<polygon points='109.238,5.000 198.863,5.000 198.863,5.000' stroke='#646464' fill='#646464'/>
+<polygon points='389.113,5.000 394.113,5.000 394.113,5.000' stroke='#646464' fill='#646464'/>
+<polygon points='59.113,175.000 59.113,170.000 59.113,175.000' stroke='#646464' fill='#646464'/>
+<polygon points='59.113,175.000 59.113,170.000 59.113,170.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,5.000 14.113,5.000 9.113,5.000' stroke='#646464' fill='#646464'/>
+<polygon points='14.113,5.000 59.113,5.000 59.113,5.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,20.000 9.113,5.000 9.113,5.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,20.000 9.113,5.000 9.113,20.000' stroke='#646464' fill='#646464'/>
+<polygon points='14.113,20.000 9.113,20.000 9.113,20.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,20.000 9.113,20.000 14.113,20.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,125.000 14.113,110.000 14.113,125.000' stroke='#646464' fill='#646464'/>
+<polygon points='14.113,125.000 14.113,110.000 14.113,110.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,125.000 14.113,125.000 14.113,125.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,125.000 14.113,125.000 9.113,125.000' stroke='#646464' fill='#646464'/>
+<polygon points='14.113,110.000 9.113,110.000 9.113,110.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,110.000 9.113,110.000 14.113,110.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,140.000 9.113,140.000 14.113,140.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,140.000 9.113,140.000 9.113,140.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,155.000 14.113,140.000 14.113,155.000' stroke='#646464' fill='#646464'/>
+<polygon points='14.113,155.000 14.113,140.000 14.113,140.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,155.000 14.113,155.000 14.113,155.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,155.000 14.113,155.000 9.113,155.000' stroke='#646464' fill='#646464'/>
+<polygon points='29.113,170.000 14.113,170.000 29.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,170.000 9.113,170.000 14.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='29.113,170.000 14.113,170.000 14.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,170.000 9.113,170.000 9.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='29.113,175.000 29.113,170.000 29.113,170.000' stroke='#646464' fill='#646464'/>
+<polygon points='29.113,175.000 29.113,170.000 29.113,175.000' stroke='#646464' fill='#646464'/>
+<polygon points='44.113,175.000 29.113,175.000 29.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='44.113,175.000 29.113,175.000 44.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='44.113,170.000 44.113,175.000 44.113,175.000' stroke='#505050' fill='#505050'/>
+<polygon points='44.113,170.000 44.113,175.000 44.113,170.000' stroke='#505050' fill='#505050'/>
+<polygon points='59.113,170.000 44.113,170.000 44.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='59.113,170.000 44.113,170.000 59.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='9.113,95.000 14.113,95.000 14.113,95.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,95.000 14.113,95.000 9.113,95.000' stroke='#646464' fill='#646464'/>
+<polygon points='14.113,95.000 14.113,80.000 14.113,80.000' stroke='#646464' fill='#646464'/>
+<polygon points='14.113,95.000 14.113,80.000 14.113,95.000' stroke='#646464' fill='#646464'/>
+<polygon points='14.113,80.000 9.113,80.000 14.113,80.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,80.000 9.113,80.000 9.113,80.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='9.113,65.000 14.113,65.000 14.113,65.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,65.000 14.113,65.000 9.113,65.000' stroke='#646464' fill='#646464'/>
+<polygon points='14.113,35.000 14.113,20.000 14.113,35.000' stroke='#646464' fill='#646464'/>
+<polygon points='14.113,35.000 14.113,20.000 14.113,20.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,35.000 14.113,35.000 9.113,35.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,35.000 14.113,35.000 14.113,35.000' stroke='#646464' fill='#646464'/>
+<polygon points='14.113,50.000 9.113,50.000 14.113,50.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,50.000 9.113,50.000 9.113,50.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,65.000 14.113,50.000 14.113,50.000' stroke='#646464' fill='#646464'/>
+<polygon points='14.113,65.000 14.113,50.000 14.113,65.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,80.000 9.113,65.000 9.113,80.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,50.000 9.113,35.000 9.113,35.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,140.000 9.113,125.000 9.113,140.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,170.000 9.113,155.000 9.113,170.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,110.000 9.113,95.000 9.113,110.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,80.000 9.113,65.000 9.113,65.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,170.000 9.113,155.000 9.113,155.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,140.000 9.113,125.000 9.113,125.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,110.000 9.113,95.000 9.113,95.000' stroke='#646464' fill='#646464'/>
+<polygon points='9.113,50.000 9.113,35.000 9.113,50.000' stroke='#646464' fill='#646464'/>
+<polygon points='394.113,125.000 389.113,125.000 394.113,140.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='389.113,50.000 299.488,5.000 389.113,65.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='374.113,170.000 389.113,170.000 14.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='9.113,50.000 14.113,50.000 9.113,35.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='209.113,175.000 224.113,170.000 209.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='359.113,170.000 374.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='198.863,87.500 394.113,170.000 204.363,87.500' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='9.113,35.000 14.113,50.000 14.113,35.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='109.238,5.000 109.238,87.500 198.863,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='29.113,170.000 44.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,170.000 29.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='204.363,87.500 394.113,170.000 293.988,87.500' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='179.113,170.000 194.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='149.113,175.000 164.113,170.000 149.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='119.113,170.000 134.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='269.113,175.000 284.113,170.000 269.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='103.738,87.500 394.113,170.000 109.238,87.500' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,95.000 394.113,170.000 14.113,80.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='224.113,175.000 224.113,170.000 209.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,5.000 14.113,20.000 103.738,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='134.113,175.000 134.113,170.000 119.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,20.000 14.113,35.000 103.738,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='9.113,140.000 14.113,140.000 9.113,125.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,80.000 394.113,170.000 9.113,65.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='239.113,175.000 254.113,170.000 239.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='299.488,5.000 394.113,170.000 389.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='89.113,170.000 104.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='374.113,175.000 374.113,170.000 359.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='389.113,125.000 299.488,5.000 394.113,140.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='59.113,170.000 74.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='254.113,170.000 269.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='194.113,175.000 194.113,170.000 179.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='299.488,87.500 394.113,170.000 299.488,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='9.113,155.000 374.113,170.000 14.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,65.000 394.113,170.000 103.738,87.500' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='389.113,170.000 394.113,170.000 14.113,140.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='9.113,20.000 14.113,20.000 9.113,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='134.113,170.000 149.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,110.000 299.488,5.000 389.113,110.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='299.113,175.000 314.113,170.000 299.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='104.113,170.000 119.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,65.000 389.113,65.000 394.113,80.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='9.113,125.000 394.113,170.000 14.113,125.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='164.113,175.000 164.113,170.000 149.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='9.113,5.000 14.113,20.000 14.113,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='389.113,155.000 394.113,170.000 394.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='194.113,170.000 209.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='314.113,175.000 314.113,170.000 299.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='179.113,175.000 194.113,170.000 179.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,110.000 394.113,170.000 9.113,95.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='9.113,65.000 394.113,170.000 14.113,65.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='109.238,87.500 394.113,170.000 198.863,87.500' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,5.000 389.113,5.000 394.113,20.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,125.000 394.113,170.000 14.113,110.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='89.113,175.000 104.113,170.000 89.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='359.113,175.000 374.113,175.000 359.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,95.000 389.113,95.000 394.113,110.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='239.113,170.000 254.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='9.113,110.000 14.113,110.000 9.113,95.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='74.113,175.000 74.113,170.000 59.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,35.000 14.113,50.000 103.738,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='314.113,170.000 329.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='44.113,175.000 44.113,170.000 29.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='74.113,170.000 89.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='204.363,5.000 204.363,87.500 293.988,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,80.000 299.488,5.000 389.113,80.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='254.113,175.000 254.113,170.000 239.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,140.000 299.488,5.000 389.113,140.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='44.113,170.000 59.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,140.000 394.113,170.000 9.113,125.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='9.113,170.000 14.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='389.113,20.000 299.488,5.000 389.113,35.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='389.113,95.000 299.488,5.000 394.113,110.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,35.000 389.113,35.000 394.113,50.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='389.113,80.000 299.488,5.000 389.113,95.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='329.113,170.000 344.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='389.113,5.000 299.488,5.000 394.113,20.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='9.113,95.000 394.113,170.000 14.113,95.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='104.113,175.000 104.113,170.000 89.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='299.113,170.000 314.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='389.113,140.000 299.488,5.000 389.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,50.000 14.113,65.000 103.738,5.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='389.113,110.000 299.488,5.000 389.113,125.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='103.738,5.000 14.113,65.000 103.738,87.500' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='293.988,5.000 204.363,87.500 293.988,87.500' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='329.113,175.000 344.113,170.000 329.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='224.113,170.000 239.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='14.113,155.000 389.113,170.000 14.113,140.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,50.000 299.488,5.000 389.113,50.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='198.863,5.000 109.238,87.500 198.863,87.500' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='59.113,175.000 74.113,170.000 59.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='293.988,87.500 394.113,170.000 299.488,87.500' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='209.113,170.000 224.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='29.113,175.000 44.113,170.000 29.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='394.113,20.000 299.488,5.000 389.113,20.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='284.113,175.000 284.113,170.000 269.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='284.113,170.000 299.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='9.113,80.000 14.113,80.000 9.113,65.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='269.113,170.000 284.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='344.113,175.000 344.113,170.000 329.113,175.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='149.113,170.000 164.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='164.113,170.000 179.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='389.113,65.000 299.488,5.000 394.113,80.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='344.113,170.000 359.113,170.000 9.113,155.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='389.113,35.000 299.488,5.000 394.113,50.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<polygon points='119.113,175.000 134.113,170.000 119.113,170.000' stroke='#1e1e1e' fill='#1e1e1e'/>
+<path d='M344.113 170.000 L359.113,170.000 L359.113,175.000 L374.113,175.000 L374.113,170.000 L389.113,170.000 L394.113,170.000 L394.113,155.000 L389.113,155.000 L389.113,140.000 L394.113,140.000 L394.113,125.000 L389.113,125.000 L389.113,110.000 L394.113,110.000 L394.113,95.000 L389.113,95.000 L389.113,80.000 L394.113,80.000 L394.113,65.000 L389.113,65.000 L389.113,50.000 L394.113,50.000 L394.113,35.000 L389.113,35.000 L389.113,20.000 L394.113,20.000 L394.113,5.000 L389.113,5.000 L299.488,5.000 L299.488,87.500 L293.988,87.500 L293.988,5.000 L204.363,5.000 L204.363,87.500 L198.863,87.500 L198.863,5.000 L109.238,5.000 L109.238,87.500 L103.738,87.500 L103.738,5.000 L14.113,5.000 L9.113,5.000 L9.113,20.000 L14.113,20.000 L14.113,35.000 L9.113,35.000 L9.113,50.000 L14.113,50.000 L14.113,65.000 L9.113,65.000 L9.113,80.000 L14.113,80.000 L14.113,95.000 L9.113,95.000 L9.113,110.000 L14.113,110.000 L14.113,125.000 L9.113,125.000 L9.113,140.000 L14.113,140.000 L14.113,155.000 L9.113,155.000 L9.113,170.000 L14.113,170.000 L29.113,170.000 L29.113,175.000 L44.113,175.000 L44.113,170.000 L59.113,170.000 L59.113,175.000 L74.113,175.000 L74.113,170.000 L89.113,170.000 L89.113,175.000 L104.113,175.000 L104.113,170.000 L119.113,170.000 L119.113,175.000 L134.113,175.000 L134.113,170.000 L149.113,170.000 L149.113,175.000 L164.113,175.000 L164.113,170.000 L179.113,170.000 L179.113,175.000 L194.113,175.000 L194.113,170.000 L209.113,170.000 L209.113,175.000 L224.113,175.000 L224.113,170.000 L239.113,170.000 L239.113,175.000 L254.113,175.000 L254.113,170.000 L269.113,170.000 L269.113,175.000 L284.113,175.000 L284.113,170.000 L299.113,170.000 L299.113,175.000 L314.113,175.000 L314.113,170.000 L329.113,170.000 L329.113,175.000 L344.113,175.000 L344.113,170.000 ' class='s1' />
+<path d='M103.738 5.000 L109.238,5.000 ' class='s3' />
+<path d='M198.863 5.000 L204.363,5.000 ' class='s3' />
+<path d='M293.988 5.000 L299.488,5.000 ' class='s3' />
+<path d='M9.016 169.911 L8.212,164.824 ' class='s6' />
+<path d='M8.748 167.234 L8.748,168.572 ' class='s6' />
+<path d='M8.748 167.234 L8.480,166.163 ' class='s6' />
+<path d='M6.339 165.895 L5.000,165.895 L5.000,167.204 L5.669,167.204 L5.800,167.217 L5.925,167.255 L6.040,167.316 L6.141,167.397 L6.224,167.496 L6.286,167.609 L6.325,167.731 L6.339,167.858 L6.339,168.185 L6.325,168.313 L6.286,168.435 L6.224,168.548 L6.141,168.647 L6.040,168.728 L5.925,168.789 L5.800,168.826 L5.669,168.840 L5.000,168.840 ' class='s6' />
+<path d='M7.409 168.840 L7.409,168.676 ' class='s6' />
+<path d='M9.484 166.059 L9.629,166.368 L9.734,166.693 L9.797,167.028 L9.819,167.367 L9.797,167.707 L9.734,168.042 L9.629,168.367 L9.484,168.676 L9.417,168.745 L9.337,168.797 L9.246,168.829 L9.149,168.840 L9.053,168.829 L8.962,168.797 L8.881,168.745 L8.815,168.676 L8.670,168.367 L8.565,168.042 L8.502,167.707 L8.480,167.367 L8.502,167.028 L8.565,166.693 L8.670,166.368 L8.815,166.059 L8.881,165.990 L8.962,165.938 L9.053,165.906 L9.149,165.895 L9.246,165.906 L9.337,165.938 L9.417,165.990 L9.484,166.059 ' class='s6' />
+<path d='M11.893 166.059 L12.038,166.368 L12.143,166.693 L12.207,167.028 L12.228,167.367 L12.207,167.707 L12.143,168.042 L12.038,168.367 L11.893,168.676 L11.827,168.745 L11.746,168.797 L11.655,168.829 L11.559,168.840 L11.463,168.829 L11.372,168.797 L11.291,168.745 L11.224,168.676 L11.079,168.367 L10.974,168.042 L10.911,167.707 L10.890,167.367 L10.911,167.028 L10.974,166.693 L11.079,166.368 L11.224,166.059 L11.291,165.990 L11.372,165.938 L11.463,165.906 L11.559,165.895 L11.655,165.906 L11.746,165.938 L11.827,165.990 L11.893,166.059 ' class='s6' />
 
 </svg>
